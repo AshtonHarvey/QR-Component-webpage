@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"mahc":[function(require,module,exports) {
 "use strict";require("../scss/index.scss"),document.getElementById("app").innerHTML="\n<h1>Hello Vanilla!</h1>\n<div>\n</div>\n";
 },{"../scss/index.scss":"HYMH"}]},{},["mahc"], null)
-//# sourceMappingURL=/js.699c319f.js.map
+//# sourceMappingURL=js.699c319f.js.map
